@@ -5,17 +5,17 @@ Sustainable transportation mobile app built with React Native and ML to optimize
 - ### Transport Mode Classification:
   Machine learning models classify user travel mode (e.g., walking, cycling, car, public transport).
 
-  -Eco-Friendly Route Recommendations
-     * Real-time navigation APIs suggest sustainable commuting routes.
+- ### Eco-Friendly Route Recommendations
+  Real-time navigation APIs suggest sustainable commuting routes.
 
-  -Reward-Based Sustainability System
-     * Users earn points for choosing environmentally friendly transportation options.
+- ### Reward-Based Sustainability System
+  Users earn points for choosing environmentally friendly transportation options.
 
-  -Backend Analytics Pipeline
-     * Python-based data processing to analyze commuting patterns and generate insights.
+- ### Backend Analytics Pipeline
+  Python-based data processing to analyze commuting patterns and generate insights.
 
-  -Mobile Application Interface
-     * React Native frontend for real-time commute tracking and user interaction.
+- ### Mobile Application Interface
+  React Native frontend for real-time commute tracking and user interaction.
 
 # Machine Learning Pipeline
 
