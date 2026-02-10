@@ -2,19 +2,19 @@
 Sustainable transportation mobile app built with React Native and ML to optimize commute routes and detect travel modes. Uses TensorFlow for mode detection, Flask backend, and real-time APIs to provide eco-friendly routing insights and reward-based incentives.
 
 ## Features
-- ### Transport Mode Classification:
+- <b>Transport Mode Classification:</b>
   Machine learning models classify user travel mode (e.g., walking, cycling, car, public transport).
 
-- ### Eco-Friendly Route Recommendations
+- <b>Eco-Friendly Route Recommendations:</b>
   Real-time navigation APIs suggest sustainable commuting routes.
 
-- ### Reward-Based Sustainability System
+- <b>Reward-Based Sustainability System:</b>
   Users earn points for choosing environmentally friendly transportation options.
 
-- ### Backend Analytics Pipeline
+- <b>Backend Analytics Pipeline:<b>
   Python-based data processing to analyze commuting patterns and generate insights.
 
-- ### Mobile Application Interface
+- <b>Mobile Application Interface:<b>
   React Native frontend for real-time commute tracking and user interaction.
 
 ## Machine Learning Pipeline
