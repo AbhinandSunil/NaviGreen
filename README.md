@@ -57,11 +57,11 @@ NaviGreen/
 │   └── rfidtag.ino    #Arduino code for RFID-based card scanner(for users to redeem their points)
 │
 ├── mobile-app/
-│   ├── src/          #Application source code and UI components
-│   ├── App.js        #Main React Native application entry point
-│   └── package.json  #JavaScript dependencies and project configuration
+│   ├── src/           #Application source code and UI components
+│   ├── App.js         #Main React Native application entry point
+│   └── package.json   #JavaScript dependencies and project configuration
 │
-└── images/           #Screenshots and ML evaluation figures used in documentation
+└── images/            #Screenshots and ML evaluation figures used in documentation
 ```
 
 ## Application Screenshots
