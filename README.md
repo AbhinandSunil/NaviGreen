@@ -2,19 +2,19 @@
 Sustainable transportation mobile app built with React Native and ML to optimize commute routes and detect travel modes. Uses TensorFlow for mode detection, Flask backend, and real-time APIs to provide eco-friendly routing insights and reward-based incentives.
 
 ## Features
-- <b>Transport Mode Classification:</b>
+- **Transport Mode Classification**  
   Machine learning models classify user travel mode (e.g., walking, cycling, car, public transport).
 
-- <b>Eco-Friendly Route Recommendations:</b>
+- **Eco-Friendly Route Recommendations**  
   Real-time navigation APIs suggest sustainable commuting routes.
 
-- <b>Reward-Based Sustainability System:</b>
+- **Reward-Based Sustainability System**  
   Users earn points for choosing environmentally friendly transportation options.
 
-- <b>Backend Analytics Pipeline:<b>
+- **Backend Analytics Pipeline**  
   Python-based data processing to analyze commuting patterns and generate insights.
 
-- <b>Mobile Application Interface:<b>
+- **Mobile Application Interface**  
   React Native frontend for real-time commute tracking and user interaction.
 
 ## Machine Learning Pipeline
@@ -29,17 +29,37 @@ Sustainable transportation mobile app built with React Native and ML to optimize
 
 - <b>Frontend:</b> React Native mobile app
 
-Backend: Flask REST API
+- <b>Backend:</b> Flask REST API
 
-Machine Learning: TensorFlow, Scikit-learn
+- <b>Machine Learning:</b> TensorFlow, Scikit-learn
 
-Data Processing: Python, Pandas, NumPy, Matplotlib
+- <b>Data Processing:</b> Python, Pandas, NumPy, Matplotlib
 
-External Services: Real-time navigation and transport APIs
+- <b>External Services:</b> Real-time navigation and transport APIs
 
-🛠️ Tech Stack
+## Tech Stack
 
-Languages: Python, JavaScript
-Frameworks: React Native, Flask, TensorFlow
-ML & Data: Pandas, NumPy, Scikit-learn, Matplotlib
-Tools: Git, Power BI (analysis phase)
+- <b>Languages:</b> Python, JavaScript
+- <b>Frameworks:</b> React Native, Flask, TensorFlow
+- <b>ML & Data:</b> Pandas, NumPy, Scikit-learn, Matplotlib
+- <b>Tools:</b> Git, Power BI (analysis phase)
+
+## Application Screenshots
+
+### Final Mobile App Interface
+
+<img src="images/final_ui.png" width="800">
+
+## Model Evaluation Results
+### Confusion Matrix (Best Model)
+<img src="images/confusion_matrix_best.png" width="600">
+
+### Model Accuracy Comparison
+<img src="images/model_accuracy.png" width="700">
+
+### Precision & Recall Comparison
+<img src="images/model_precision.png" width="700">
+
+### ROC AUC Comparison
+<img src="images/model_roc_auc.png" width="700">
+
