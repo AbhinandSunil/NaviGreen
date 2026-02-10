@@ -20,7 +20,7 @@
   import AsyncStorage from '@react-native-async-storage/async-storage';
 
 
-  const GOOGLE_API_KEY = 'AIzaSyAxudCbFrGwNtQ9JhYGLYFLK_TSTWVgsyk';
+  const GOOGLE_API_KEY = '';
 
   const MapScreen = ({ navigation }) => {
     const [dropCoords, setDropCoords] = useState(null);
