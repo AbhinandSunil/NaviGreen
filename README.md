@@ -17,17 +17,18 @@ Sustainable transportation mobile app built with React Native and ML to optimize
 - ### Mobile Application Interface
   React Native frontend for real-time commute tracking and user interaction.
 
-# Machine Learning Pipeline
+## Machine Learning Pipeline
 
-Implemented multiple ML models including CNN, Random Forest, KNN, Gradient Boosting, and Logistic Regression
+- Implemented multiple ML models including CNN, Random Forest, KNN, Gradient Boosting, and Logistic Regression
 
-Evaluated models using accuracy, precision, recall, ROC AUC, and confusion matrices
+- Evaluated models using accuracy, precision, recall, ROC AUC, and confusion matrices
 
-Selected the best-performing model based on classification performance and robustness
+- Selected the best-performing model based on classification performance and robustness
 
-🏗️ System Architecture
+## System Architecture
 
-Frontend: React Native mobile app
+- ### Frontend:
+  React Native mobile app
 
 Backend: Flask REST API
 
