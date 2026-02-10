@@ -49,19 +49,19 @@ This project demonstrates full-stack ML system design, including mobile frontend
 ```
 NaviGreen/
 │
-├── README.md  #Project documentation
+├── README.md         #Project documentation
 ├── requirements.txt  #Python dependencies for backend and ML components
 │
 ├── backend/  #Backend services and hardware integration logic
-│   ├── app.py  #Flask API server for data processing and ML inference
-│   └── rfidtag.ino  #Arduino code for RFID-based card scanner(for users to redeem their points)
+│   ├── app.py        #Flask API server for data processing and ML inference
+│   └── rfidtag.ino   #Arduino code for RFID-based card scanner(for users to redeem their points)
 │
 ├── mobile-app/
-│   ├── src/  #Application source code and UI components
-│   ├── App.js  #Main React Native application entry point
+│   ├── src/          #Application source code and UI components
+│   ├── App.js        #Main React Native application entry point
 │   └── package.json  #JavaScript dependencies and project configuration
 │
-└── images/  #Screenshots and ML evaluation figures used in documentation
+└── images/           #Screenshots and ML evaluation figures used in documentation
 ```
 
 ## Application Screenshots
