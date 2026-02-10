@@ -46,7 +46,7 @@ This project demonstrates full-stack ML system design, including mobile frontend
 - <b>Tools:</b> Git, Power BI (analysis phase)
 
 ## Project Structure
-
+```
 NaviGreen/
 │
 ├── README.md
@@ -62,7 +62,7 @@ NaviGreen/
 │   └── package.json
 │
 └── images/
-  
+```
 
 ## Application Screenshots
 
