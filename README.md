@@ -47,12 +47,87 @@ Sustainable transportation mobile app built with React Native and ML to optimize
 ## Application Screenshots
 
 ### Final Mobile App Interface
-
-<img src="images/final_ui.png" width="800">
+                                      
+<div align="center">
+  <table>
+    <!-- First Row: First 4 images -->
+    <tr>
+      <td style="padding: 10px; text-align: center;">
+        <img src="images/loginscreen.jpeg" width="200"><br>
+        <b>Login Screen</b>
+      </td>
+      <td style="padding: 10px; text-align: center;">
+        <img src="images/signupscreen.jpeg" width="200"><br>
+        <b>Signup Screen</b>
+      </td>
+      <td style="padding: 10px; text-align: center;">
+        <img src="images/homescreen.jpeg" width="200"><br>
+        <b>Home Screen</b>
+      </td>
+      <td style="padding: 10px; text-align: center;">
+        <img src="images/profilescreen.jpeg" width="200"><br>
+        <b>Profile Screen</b>
+      </td>
+    </tr>
+    <!-- Second Row: Next 4 images -->
+    <tr>
+      <td style="padding: 10px; text-align: center;">
+        <img src="images/mapscreen1.jpeg" width="200"><br>
+        <b>Map Screen 1</b>
+      </td>
+      <td style="padding: 10px; text-align: center;">
+        <img src="images/mapscreen2.jpeg" width="200"><br>
+        <b>Map Screen 2</b>
+      </td>
+      <td style="padding: 10px; text-align: center;">
+        <img src="images/mapscreen3.jpeg" width="200"><br>
+        <b>Cycling Mode</b>
+      </td>
+      <td style="padding: 10px; text-align: center;">
+        <img src="images/mapscreen4.jpeg" width="200"><br>
+        <b>Walking Mode</b>
+      </td>
+    </tr>
+    <!-- Third Row: Next 4 images -->
+    <tr>
+      <td style="padding: 10px; text-align: center;">
+        <img src="images/mapscreen5.jpeg" width="200"><br>
+        <b>Carpooling Screen</b>
+      </td>
+      <td style="padding: 10px; text-align: center;">
+        <img src="images/mapscreen6.jpeg" width="200"><br>
+        <b>Available Cars</b>
+      </td>
+      <td style="padding: 10px; text-align: center;">
+        <img src="images/mapscreen7.jpeg" width="200"><br>
+        <b>Taxi Reached Screen</b>
+      </td>
+      <td style="padding: 10px; text-align: center;">
+        <img src="images/cardscreen1.jpeg" width="200"><br>
+        <b>Card Screen 1</b>
+      </td>
+    </tr>
+    <!-- Third Row: Next 4 images -->
+    <tr>
+      <td style="padding: 10px; text-align: center;">
+        <img src="images/cardscreen2.jpeg" width="200"><br>
+        <b>Add Card</b>
+      </td>
+      <td style="padding: 10px; text-align: center;">
+        <img src="images/cardscreen3.jpeg" width="200"><br>
+        <b>Added Card Screen</b>
+      </td>
+      <td style="padding: 10px; text-align: center;">
+        <img src="images/redeemscreen.jpeg" width="200"><br>
+        <b>Redeem Screen</b>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ## Model Evaluation Results
 ### Confusion Matrix (Best Model)
-<img src="images/confusion_matrix_best.png" width="600">
+<img src="images/CMcnn.jpeg" width="600">
 
 ### Model Accuracy Comparison
 <img src="images/model_accuracy.png" width="700">
