@@ -27,8 +27,7 @@ Sustainable transportation mobile app built with React Native and ML to optimize
 
 ## System Architecture
 
-- ### Frontend:
-  React Native mobile app
+- <b>Frontend:</b> React Native mobile app
 
 Backend: Flask REST API
 
