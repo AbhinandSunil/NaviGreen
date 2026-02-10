@@ -1,5 +1,6 @@
 # NaviGreen
 Sustainable transportation mobile app built with React Native and ML to optimize commute routes and detect travel modes. Uses TensorFlow for mode detection, Flask backend, and real-time APIs to provide eco-friendly routing insights and reward-based incentives.
+This project demonstrates full-stack ML system design, including mobile frontend, backend APIs, ML pipelines, and data analytics workflows.
 
 ## Features
 - **Transport Mode Classification**  
@@ -130,11 +131,38 @@ Sustainable transportation mobile app built with React Native and ML to optimize
 <img src="images/CMcnn.jpeg" width="600">
 
 ### Model Accuracy Comparison
-<img src="images/model_accuracy.png" width="700">
+<img src="images/modelaccuracydistribution.jpeg" width="500">
 
 ### Precision & Recall Comparison
-<img src="images/model_precision.png" width="700">
-
+<div align="center">
+  <table>
+    <tr>
+      <td style="padding: 10px; text-align: center;">
+        <img src="images/precision.jpeg" width="600"><br>
+        <b>Model Precision comparison - bar graph</b>
+      </td>
+      <td style="padding: 10px; text-align: center;">
+        <img src="images/Recall.jpeg" width="600"><br>
+        <b>Model Recall comparison - bar graph.</b>
+      </td>
+    </tr>
+ </table>
+</div>
+  
 ### ROC AUC Comparison
-<img src="images/model_roc_auc.png" width="700">
+<img src="images/ROCAUC.jpeg" width="500">
 
+## Model Selection and Discussion
+
+Random Forest achieved slightly higher overall accuracy; however, CNN demonstrated better class discrimination based on ROC AUC and scalability for complex, high-dimensional data. Given the expected growth in dataset size and feature complexity, CNN was selected as the final model for deployment.
+
+
+## Future Improvements
+
+- Carbon footprint estimation per trip
+- Personalized route recommendations using reinforcement learning
+- Cloud deployment for scalable analytics
+- Integration with smart city datasets
+
+## Research Context
+This project demonstrates end-to-end machine learning system design, including mobile development, backend services, ML pipelines, and data analytics workflows.
