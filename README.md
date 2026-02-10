@@ -1,9 +1,9 @@
 # NaviGreen
 Sustainable transportation mobile app built with React Native and ML to optimize commute routes and detect travel modes. Uses TensorFlow for mode detection, Flask backend, and real-time APIs to provide eco-friendly routing insights and reward-based incentives.
 
-# Features
-  -Transport Mode Classification:
-     * Machine learning models classify user travel mode (e.g., walking, cycling, car, public transport).
+## Features
+- ### Transport Mode Classification:
+  Machine learning models classify user travel mode (e.g., walking, cycling, car, public transport).
 
   -Eco-Friendly Route Recommendations
      * Real-time navigation APIs suggest sustainable commuting routes.
