@@ -49,12 +49,12 @@ This project demonstrates full-stack ML system design, including mobile frontend
 ```
 NaviGreen/
 │
-├── README.md         #Project documentation
-├── requirements.txt  #Python dependencies for backend and ML components
+├── README.md          #Project documentation
+├── requirements.txt   #Python dependencies for backend and ML components
 │
-├── backend/  #Backend services and hardware integration logic
-│   ├── app.py        #Flask API server for data processing and ML inference
-│   └── rfidtag.ino   #Arduino code for RFID-based card scanner(for users to redeem their points)
+├── backend/           #Backend services and hardware integration logic
+│   ├── app.py         #Flask API server for data processing and ML inference
+│   └── rfidtag.ino    #Arduino code for RFID-based card scanner(for users to redeem their points)
 │
 ├── mobile-app/
 │   ├── src/          #Application source code and UI components
