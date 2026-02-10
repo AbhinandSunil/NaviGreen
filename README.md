@@ -45,6 +45,25 @@ This project demonstrates full-stack ML system design, including mobile frontend
 - <b>ML & Data:</b> Pandas, NumPy, Scikit-learn, Matplotlib
 - <b>Tools:</b> Git, Power BI (analysis phase)
 
+## Project Structure
+
+NaviGreen/
+│
+├── README.md
+├── requirements.txt
+│
+├── backend/
+│   ├── app.py
+│   └── rfidtag.ino
+│
+├── mobile-app/
+│   ├── src/
+│   ├── App.js
+│   └── package.json
+│
+└── images/
+  
+
 ## Application Screenshots
 
 ### Final Mobile App Interface
